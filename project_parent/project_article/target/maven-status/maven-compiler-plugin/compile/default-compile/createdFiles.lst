@@ -1,0 +1,5 @@
+com\yq\base\entity\Article.class
+com\yq\base\service\ArticleService.class
+com\yq\base\ArticleApplication.class
+com\yq\base\dao\ArticleDao.class
+com\yq\base\controller\ArticleController.class

@@ -1,0 +1,9 @@
+com\yq\base\service\RecruitService.class
+com\yq\base\RecruitApplication.class
+com\yq\base\controller\CompanyController.class
+com\yq\base\entity\Company.class
+com\yq\base\service\CompanyService.class
+com\yq\base\dao\CompanyDao.class
+com\yq\base\dao\RecruitDao.class
+com\yq\base\controller\RecruitController.class
+com\yq\base\entity\Recruit.class
